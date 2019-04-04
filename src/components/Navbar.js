@@ -15,9 +15,9 @@ Creative Commons (Attribution 3.0 Unported);
                     <img src={logo} alt="store" className="navbar-brand" />
                 </Link>
                 <ul className="navbar-nav align-items-center">
-                    <li classNeme="nav-item ml-5">
+                    <li className="nav-item ml-5">
                         <Link to="/" className="nav-link">
-                            products
+                         products
                 </Link>
                     </li>
                 </ul>
@@ -41,4 +41,4 @@ background: var(--mainBlue);
     font-size: 1.3rem;
     text-transform: capitalize;
 }
-`
+`;
