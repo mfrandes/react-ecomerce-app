@@ -43,7 +43,7 @@ Product.propTypes = {
         price: PropTypes.number,
         inCart: PropTypes.bool
     }).isRequired
-};
+}
 
 const ProductWrapper = styled.div`
 .card {
